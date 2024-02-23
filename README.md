@@ -1,10 +1,12 @@
-# Simple Calculator App
+<h1 align="center">Simple Calculator App</h1>
 
 This is a simple calculator application built using Python and Tkinter.
 
 ## Screenshots
 
-![image](https://github.com/Vlazzzz/Calculator-App/assets/132906534/121aacb6-c251-453a-b785-107eb6883390)
+<div align="center">
+    <img src="https://github.com/Vlazzzz/Calculator-App/assets/132906534/121aacb6-c251-453a-b785-107eb6883390" alt="Employee Management App" width="500">
+</div><br><br>
 
 ## Features
 
