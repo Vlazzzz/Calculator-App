@@ -2,6 +2,10 @@
 
 This is a simple calculator application built using Python and Tkinter.
 
+## Screenshots
+
+![image](https://github.com/Vlazzzz/Calculator-App/assets/132906534/121aacb6-c251-453a-b785-107eb6883390)
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
